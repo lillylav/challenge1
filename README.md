@@ -1,47 +1,22 @@
-Module 1, Challenge 1
+##Description:
+Horiseon is a marketing company with a website to explain their services to their customers and generate leads. For this project they wanted to improve accessibility and clean up the source code. To achieve this I added semantic elements to define the structure of the site, added alt tags to the images acknowledging them as decorative, confirmed that all HTML elements and headings follow a logical structure and order, and added a title. I also cleaned up the CSS side consolidating duplicate formatting and removing unnecessary classes on the HTML side.
 
-USER STORY
-AS A marketing agency
-    I WANT a codebase that follows accessibility standards
-    SO THAT our own site is optimized for search engines
+##Built with:
+#HTML
+#CSS
 
-ACCEPTANCE CRITERIA
-GIVEN a webpage meets accessibility standards
-    WHEN I view the source code
-    THEN I find semantic HTML elements
-    WHEN I view the structure of the HTML elements
-    THEN I find that the elements follow a logical structure independent of styling and positioning
-    WHEN I view the image elements
-    THEN I find accessible alt attributes
-    WHEN I view the heading attributes
-    THEN they fall in sequential order
-    WHEN I view the title element
-    THEN I find a concise, descriptive title
+##Link to live project:
+https://lillylav.github.io/challenge1/
 
+##Link to repository:
+https://github.com/lillylav/challenge1
 
+##Results:
+<img width="1440" alt="Screen Shot 2021-12-16 at 9 46 03 PM" src="https://user-images.githubusercontent.com/93904532/146490541-de06f681-2b32-467a-97f2-71dd5c66fab5.png">
+<img width="1440" alt="Screen Shot 2021-12-16 at 9 46 11 PM" src="https://user-images.githubusercontent.com/93904532/146490545-9f72b1c0-2536-445d-968c-dc735f9645c0.png">
 
-Grading Requirements
-    This challenge is graded based on the following criteria:
+##Contact:
+#lilly.leiran@gmail.com
 
-    Technical Acceptance Criteria: 40%
-    Satisfies all of the preceding acceptance criteria plus the following code improvements:
-        Application's links all function correctly.
-        Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-        Application's CSS file is properly commented.
-
-    Deployment: 32%
-        Application deployed at live URL.
-        Application loads with no errors.
-        Application GitHub URL submitted.
-        GitHub repository that contains application code.
-
-    Application Quality: 15%
-        Application resembles (at least 90%) screenshots provided in challenge instructions.
-
-    Repository Quality: 13%
-        Repository has a unique name.
-        Repository follows best practices for file structure and naming conventions.
-        Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-        Repository contains multiple descriptive commit messages.
-        Repository contains quality README file with description, screenshot, and link to deployed application.
-
+##Author:
+Lilly Leiran
